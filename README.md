@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 ## 🚀 About Me
 
 Hello there! My name is Narendran, and I am an engineering student passionate about web development and programming. 💻 I have a strong grasp of languages like C/C++, Java, and JavaScript, and I am enthusiastic about gaining more experience in these areas.
